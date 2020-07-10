@@ -21,8 +21,8 @@ def bonus
   }
 
   #code your solution here:
-hero["Romeo"][:status]="alive"
-heroine["Romeo"][:status]="alive"
+hero["Romeo"][:status]="dead"
+heroine["Romeo"][:status]="dead"
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
